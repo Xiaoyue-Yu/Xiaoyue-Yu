@@ -1,5 +1,10 @@
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xiaoyue-Yu&show_icons=true&hide_border=true&hide_rank=true" height="170" alt="stats" />
-    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaoyue-Yu&layout=compact&hide_border=true" height="170" alt="languages" />
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Xiaoyue-Yu&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xiaoyue-Yu&theme=github_dark)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xiaoyue-Yu&theme=github_dark" width="400" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xiaoyue-Yu&theme=github_dark" width="400" />
+
 </div>
