@@ -3,14 +3,6 @@
 </div>
 
 <div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Xiaoyue-Yu&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaoyue-Yu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
   <h3>🛠 Tools & Technologies</h3>
   <table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
     <tr>
